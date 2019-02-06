@@ -1,0 +1,23 @@
+#camera{
+    padding: 10;
+    background-color: lightgrey;
+}
+
+#video{
+    background-color: grey;
+    width: 400px;
+    height: 300px;
+    margin: 0;
+}
+
+#canvas, #img{
+    width: 400px;
+    height: 300px;
+}
+
+#canvas{
+	display: none;
+}
+#send{
+	display: none;
+}
